@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "The Golden Road",
-  "type": "text"
+  "type": "text",
+  "book_id": 579
 }
